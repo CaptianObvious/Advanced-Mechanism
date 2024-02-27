@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Neurotrauma" modversion="A1.8.6h3" corepackage="False" steamworkshopid="2776270649" gameversion="1.1.19.3" expectedhash="6A40B63E79BF27095731867BC6D16A09">
+<contentpackage name="Advnced Mechanism" modversion="T" corepackage="False" steamworkshopid="2776270649" gameversion="1.1.19.3" expectedhash="6A40B63E79BF27095731867BC6D16A09">
   <Other file="%ModDir%/Images/InGameItemIconAtlas.png" />
   <Other file="%ModDir%/Images/InventoryItemIconAtlas.png" />
   <Other file="%ModDir%/Images/BloodPacksAtlas.png" />
