@@ -1,2 +1,2 @@
 # Advanced-Mechanism
-Mod that reworks recources in Barotrauma
+Mod that reworks resources in Barotrauma
