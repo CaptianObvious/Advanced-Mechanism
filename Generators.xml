@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Items>
-	<Item name ="DiselGenerator" description = "" identifier = "generator_mount" Tags="generator,generator_mount" category="Machine,Generator"/>
-	<Sprite texture = "%ModDir%/Sprites/silent_engine.png" depth="0.01" canflipy="false" />
+	<Item name ="DiselGenerator" description = "" identifier = "generator_mount" Tags="generator,generator_mount" category="Machine,Generator"/>	
+	<Sprite name = "DiselGenerator" texture= "%ModDir%/Sprites/silent_engine.png" depth="0.8" origin="0.5,0.5" />
+	<BrokenSprite texture = "%ModDir%/Sprites/silent_engine_wrecked.png" origin="0.5,0.5" depth="0.8" maxcondition="80"/>
 </Items>
